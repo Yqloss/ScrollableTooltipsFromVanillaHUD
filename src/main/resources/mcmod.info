@@ -2,13 +2,14 @@
   {
     "modid": "${id}",
     "name": "${name}",
-    "description": "Adds in a load of customization to a few native UI elements such as the bossbar, scoreboard, etc.",
+    "description": "scrollable tooltips feature from Vanilla HUD",
     "version": "${version}",
     "mcversion": "1.8.9",
     "url": "",
     "updateUrl": "",
     "authorList": [
-      "Polyfrost"
+      "Polyfrost",
+      "Yqloss"
     ],
     "credits": "",
     "logoFile": "",
